@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Beatty)](https://github.com/Joshua-Beatty/github-readme-stats)
 
 <!--
 **Joshua-Beatty/Joshua-Beatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
