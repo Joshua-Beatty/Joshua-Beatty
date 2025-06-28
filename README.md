@@ -1,5 +1,5 @@
-🔭 I am the Software Engineer at Pearagon, a HubSpot Diamond Partner. 
+🔭 I am the Software Engineer at Neighbor, the leading peer to peer storage marketplace. 
 
-⚡ I love working in typescript, and enjoy making servers, apps, games, and more.
+⚡ I love working in typescript and go, and enjoy making servers, apps, APIs, and more.
 
-💬 I am a top HubSpot develoepr so feel free to ask me anything!
+💬 I am a top HubSpot developer so feel free to ask me anything!
